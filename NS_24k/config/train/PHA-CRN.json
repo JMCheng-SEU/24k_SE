@@ -1,0 +1,58 @@
+{
+    "seed": 0,
+    "description": "",
+    "save_location": "D:\\JMCheng\\RT_24k\\24k_SE_exp",
+    "n_gpu": 1,
+    "use_cudnn": true,
+    "trainer": {
+        "epochs": 100,
+        "save_checkpoint_interval": 1,
+        "validation_interval": 1,
+        "find_max": true,
+        "z_score": false
+    },
+    "model": {
+        "module": "model.SkipConvNet",
+        "main": "SkipConvNet",
+        "args": {}
+    },
+    "loss_function": {
+        "module": "model.loss",
+        "main": "PMSQE_loss",
+        "args": {}
+    },
+    "optimizer": {
+        "lr": 0.0006,
+        "beta1": 0.9
+    },
+    "train_dataset": {
+        "module": "dataset.wav_dataset",
+        "main": "WavDataset",
+        "args": {
+            "mixture_dataset": "D:\\JMCheng\\SIG_Challenge\\DATASET\\dns_to_cheng",
+            "clean_dataset": "D:\\JMCheng\\SIG_Challenge\\DATASET\\dns_to_cheng",
+            "limit": null,
+            "offset": 0
+        }
+    },
+    "validation_dataset": {
+        "module": "dataset.wav_dataset",
+        "main": "WavDataset",
+        "args": {
+            "mixture_dataset": "D:\\JMCheng\\RT_24k\\DATASET\\testset\\noisy",
+            "clean_dataset": "D:\\JMCheng\\RT_24k\\DATASET\\testset\\clean",
+            "limit": 360,
+            "offset": 0
+        }
+    },
+    "train_dataloader": {
+        "shuffle": true,
+        "num_workers": 0,
+        "batch_size": 4
+    },
+    "validation_dataloader": {
+        "shuffle": true,
+        "num_workers": 0,
+        "batch_size": 4
+    }
+}

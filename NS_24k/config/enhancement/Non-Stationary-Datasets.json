@@ -1,0 +1,17 @@
+{
+    "experiments_dir": "D:\\JMCheng\\RT_16k\\16k_exp\\PHA-CRN",
+    "enhancement_dir": "D:\\JMCheng\\RT_16k\\16k_exp\\PHA-CRN",
+    "model": {
+        "module": "model.pha_cnn_256_160",
+        "main": "CRN_for_PSD",
+        "args": {}
+    },
+    "dataset": {
+        "module": "dataset.wav_dataset_enhancement",
+        "main": "WavDataset",
+        "args": {
+            "mixture_dataset": "D:\\JMCheng\\RT_16k\\16k_exp\\NSout_real_recording_16k_new",
+            "limit": 3000
+        }
+    }
+}

@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e8b755b-425a-4302-aa46-99b18ad50bf6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/FunASR/funasr/auto/auto_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/FunASR/funasr/auto/auto_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunASR/funasr/models/seaco_paraformer/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/FunASR/funasr/models/seaco_paraformer/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunASR/funasr/utils/load_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/FunASR/funasr/utils/load_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speechbrain/recipes/LibriMix/meta/preprocess_dynamic_mixing.py" beforeDir="false" afterPath="$PROJECT_DIR$/speechbrain/recipes/LibriMix/meta/preprocess_dynamic_mixing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speechbrain/recipes/WHAMandWHAMR/meta/rir_constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/speechbrain/recipes/WHAMandWHAMR/meta/rir_constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speechbrain/samples/audio_samples/nn_training_samples/train.json" beforeDir="false" afterPath="$PROJECT_DIR$/speechbrain/samples/audio_samples/nn_training_samples/train.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speechbrain/speechbrain/processing/speech_augmentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/speechbrain/speechbrain/processing/speech_augmentation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speechbrain/tests/unittests/test_arpa.py" beforeDir="false" afterPath="$PROJECT_DIR$/speechbrain/tests/unittests/test_arpa.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FunASR" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="1aTcdVYHqtm4fny8N6EH5bYERpr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JMCheng/RT_24k/codes/24k_SE_Infer&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportGeventDebugging" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JMCheng\RT_24k\codes\NS_24k\24k_SE_Infer\model" />
+      <recent name="D:\JMCheng\RT_16k\codes\CGRNN_FB_512_16k\demo_synthesizer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.24k_se_inference">
+    <configuration name="24k_se_inference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24k_SE_Infer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24k_SE_Infer/24k_se_inference.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aia_trans_onemic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model/DB_AIAT_model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/DB_AIAT_model/aia_trans_onemic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="make_list_new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/make_list_new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="resample_wavs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/resample_wavs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_for_split_frames" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_for_split_frames.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.24k_se_inference" />
+        <item itemvalue="Python.train_for_split_frames" />
+        <item itemvalue="Python.make_list_new" />
+        <item itemvalue="Python.aia_trans_onemic" />
+        <item itemvalue="Python.resample_wavs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e8b755b-425a-4302-aa46-99b18ad50bf6" name="Default Changelist" comment="" />
+      <created>1586763111828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586763111828</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/pha_crn.py</url>
+          <line>363</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/pha_cnn_1024w512.py</url>
+          <line>622</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/pha_cnn_1024w512.py</url>
+          <line>593</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/pha_cnn_1024w512.py</url>
+          <line>862</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/pha_cnn_1024w512.py</url>
+          <line>836</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/pha_cnn_320w160.py</url>
+          <line>210</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/pha_cnn_1024w512.py</url>
+          <line>1041</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/pha_cnn_1024w512.py</url>
+          <line>1025</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/pha_cnn_1024w512.py</url>
+          <line>1027</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/pha_cnn_1024w512.py</url>
+          <line>1029</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/pha_cnn_1024w512.py</url>
+          <line>1031</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/complexnn.py</url>
+          <line>294</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/DCCRN_model.py</url>
+          <line>186</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/DCCRN_model.py</url>
+          <line>160</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/DCCRN_model.py</url>
+          <line>161</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DNSMOS.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/DCCRN_model.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/three_denoiser/losses/perceptual.py</url>
+          <line>309</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/three_denoiser/losses/perceptual.py</url>
+          <line>219</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/oneC_DPRNN_Streamer.py</url>
+          <line>440</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/oneC_DPRNN_Streamer.py</url>
+          <line>441</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/oneC_DPRNN_Streamer.py</url>
+          <line>427</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/CGRNN_share_FB.py</url>
+          <line>176</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/CGRNN_FB_share_mid.py</url>
+          <line>366</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/CGRNN_FB_ATTEN.py</url>
+          <line>115</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/CGRNN_FB.py</url>
+          <line>1017</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/compute_GSNR_NSR_SSR.py</url>
+          <line>182</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/compute_GSNR_NSR_SSR.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/compute_GSNR_NSR_SSR.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/CGRNN_FB_Mel.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/CGRNN_FB_Mel.py</url>
+          <line>135</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/CGRNN_FB.py</url>
+          <line>617</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/CGRNN_new_FB_FullSize.py</url>
+          <line>215</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/DPCRN_new_FB_Lite.py</url>
+          <line>184</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/CGRNN_FB_64.py</url>
+          <line>141</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/CGRNN_FB_64.py</url>
+          <line>145</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/CGRNN_FB_SC.py</url>
+          <line>179</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/CGRNN_FB_SC.py</url>
+          <line>184</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/CGRNN_FB_SC.py</url>
+          <line>199</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/CGRNN_FB_SC.py</url>
+          <line>208</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/CGRNN_256.py</url>
+          <line>188</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/stft.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/multiframe.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="test1.shape" language="Python" />
+        <watch expression="axis.shape" language="Python" />
+        <watch expression="real.shape" language="Python" />
+        <watch expression="real" language="Python" />
+        <watch expression="real.shape" language="Python" />
+        <watch expression="real[0].shape" language="Python" />
+        <watch expression="real[1].shape" language="Python" />
+        <watch expression="inputs" language="Python" />
+        <watch expression="inputs[0].shape" language="Python" />
+        <watch expression="convT1_input.shape" language="Python" />
+        <watch expression="convT1_out.shape" language="Python" />
+        <watch expression="conv_out4.shape" language="Python" />
+        <watch expression="inputs[1].shape" language="Python" />
+        <watch expression="out.shape" language="Python" />
+        <watch expression="r_rnn_in.shape" language="Python" />
+        <watch expression="skip_r.shape" language="Python" />
+        <watch expression="skip.shape" language="Python" />
+        <watch expression="mid_GRU_in.shape" language="Python" />
+        <watch expression="glu_in.shape" language="Python" />
+        <watch expression="skip.shape" language="Python" />
+        <watch expression="mid_GRU_out.shape" language="Python" />
+        <watch expression="mid_in.shape" language="Python" />
+        <watch expression="real6.shape" language="Python" />
+        <watch expression="real.shape" language="Python" />
+        <watch expression="out_wav.shape" language="Python" />
+        <watch expression="x.shape" language="Python" />
+        <watch expression="real.shape" language="Python" />
+        <watch expression="real5.shape" language="Python" />
+        <watch expression="real_T5.shape" language="Python" />
+        <watch expression="out_wav.shape" language="Python" />
+        <watch expression="mid_in.shape" language="Python" />
+        <watch expression="mid_GRU_out.shape" language="Python" />
+        <watch expression="real_T0.shape" language="Python" />
+        <watch expression="real5.shape" language="Python" />
+        <watch expression="real4.shape" language="Python" />
+        <watch expression="real3.shape" language="Python" />
+        <watch expression="real2.shape" language="Python" />
+        <watch expression="real1.shape" language="Python" />
+        <watch expression="real_T5.shape" language="Python" />
+        <watch expression="mixture_D.shape" language="Python" />
+        <watch expression="out_wav.shape" language="Python" />
+        <watch expression="mid_GRU_in.shape" language="Python" />
+        <watch expression="mid_GRU_in.shape" language="Python" />
+        <watch expression="mid_GRU_out1" language="Python" />
+        <watch expression="mid_GRU_out1.shape" language="Python" />
+        <watch expression="fcs_out.shape" language="Python" />
+        <watch expression="real_T6.shape" language="Python" />
+        <watch expression="mixture_imag.shape" language="Python" />
+        <watch expression="mixture_real.shape" language="Python" />
+        <watch expression="est_imag.shape" language="Python" />
+        <watch expression="conv_out1.shape" language="Python" />
+        <watch expression="conv_out2.shape" language="Python" />
+        <watch expression="conv_out5.shape" language="Python" />
+        <watch expression="input.shape" language="Python" />
+        <watch expression="intra_RNN_input.shape" language="Python" />
+        <watch expression="intra_dense_out.shape" language="Python" />
+        <watch expression="intra_ln_out.shape" language="Python" />
+        <watch expression="intra_out.shape" language="Python" />
+        <watch expression="inter_RNN_input.shape" language="Python" />
+        <watch expression="inter_dense_out.shape" language="Python" />
+        <watch expression="inter_ln_input.shape" language="Python" />
+        <watch expression="inter_out.shape" language="Python" />
+        <watch expression="DPRNN_out2.shape" language="Python" />
+        <watch expression="conv_out5.shape" language="Python" />
+        <watch expression="conv_out2.shape" language="Python" />
+        <watch expression="convT3_out.shape" language="Python" />
+        <watch expression="convT4_out.shape" language="Python" />
+        <watch expression="conv_out1.shape" language="Python" />
+        <watch expression="convT5_out.shape" language="Python" />
+        <watch expression="est_real.shape" language="Python" />
+        <watch expression="item.shape" language="Python" />
+        <watch expression="spec_complex.shape" language="Python" />
+        <watch expression="temp_mixture.shape" language="Python" />
+        <watch expression="enhanced.shape" language="Python" />
+        <watch expression="enc_clean.shape" language="Python" />
+        <watch expression="est_real.shape" language="Python" />
+        <watch expression="loss_wav2vec.shape" language="Python" />
+        <watch expression="self.dist_metric(rep_y_hat, rep_y).mean()" language="Python" />
+        <watch expression="conv_out1.shape" language="Python" />
+        <watch expression="conv_out2.shape" language="Python" />
+        <watch expression="conv_out3.shape" language="Python" />
+        <watch expression="conv_out4.shape" language="Python" />
+        <watch expression="conv_out5.shape" language="Python" />
+        <watch expression="convT1_out.shape" language="Python" />
+        <watch expression="convT2_out.shape" language="Python" />
+        <watch expression="convT3_out.shape" language="Python" />
+        <watch expression="convT4_out.shape" language="Python" />
+        <watch expression="convT5_out.shape" language="Python" />
+        <watch expression="out1.shape" language="Python" />
+        <watch expression="item.shape" language="Python" />
+        <watch expression="out2_est.shape" language="Python" />
+        <watch expression="inter_ln_input.shape" language="Python" />
+        <watch expression="conv_out5.shape" language="Python" />
+        <watch expression="intra_dense_out.shape" language="Python" />
+        <watch expression="Output_path" language="Python" />
+        <watch expression="RNN_input_rs.shape" language="Python" />
+        <watch expression="mid_out.shape" language="Python" />
+        <watch expression="mid_in.shape" language="Python" />
+        <watch expression="res5.shape" language="Python" />
+        <watch expression="x5.shape" language="Python" />
+        <watch expression="mid_out_2.shape" language="Python" />
+        <watch expression="res4.shape" language="Python" />
+        <watch expression="x1.shape" language="Python" />
+        <watch expression="res5.shape" language="Python" />
+        <watch expression="o.shape" language="Python" />
+        <watch expression="self.layers_att[i].shape" language="Python" />
+        <watch expression="self.layers_att[i]" language="Python" />
+        <watch expression="weights.shape" language="Python" />
+        <watch expression="macs" language="Python" />
+        <watch expression="audio_label.shpae" language="Python" />
+        <watch expression="audio_label.shape" language="Python" />
+        <watch expression="len(noisy_audio)" language="Python" />
+        <watch expression="enhanced_wav" language="Python" />
+        <watch expression="vad_results.shape" language="Python" />
+        <watch expression="vad_results" language="Python" />
+        <watch expression="x5.shape" language="Python" />
+        <watch expression="x1.shape" language="Python" />
+        <watch expression="mel_features.shape" language="Python" />
+        <watch expression="mixture_D.shape" language="Python" />
+        <watch expression="mixture.shape" language="Python" />
+        <watch expression="mid_GRU_in.shape" language="Python" />
+        <watch expression="conv_out5.shape" language="Python" />
+        <watch expression="inter_RNN_input.shape" language="Python" />
+        <watch expression="intra_ln_out.shape" language="Python" />
+        <watch expression="inter_ln_input.shape" language="Python" />
+        <watch expression="output.shape" language="Python" />
+        <watch expression="conv_out2.shape" language="Python" />
+        <watch expression="convT3_out.shape" language="Python" />
+        <watch expression="x5.shape" language="Python" />
+        <watch expression="mixture_vad.shape" language="Python" />
+        <watch expression="mixture.shape" language="Python" />
+        <watch expression="est.shape" language="Python" />
+        <watch expression="est.shape" language="Python" />
+        <watch expression="conv_stft.shape" language="Python" />
+        <watch expression="clean_stft.shape" language="Python" />
+        <watch expression="vad_label.shape" language="Python" />
+        <watch expression="clean.shape" language="Python" />
+        <watch expression="mix_vad.shape" language="Python" />
+        <watch expression="vad_label" language="Python" />
+        <watch expression="vad_mask.shape" language="Python" />
+        <watch expression="vad_mask" language="Python" />
+        <watch expression="est.shape" language="Python" />
+        <watch expression="spectra.shape" language="Python" />
+        <watch expression="pad_mask.shape" language="Python" />
+        <watch expression="vad_mask" language="Python" />
+        <watch expression="vad_mask.shape" language="Python" />
+        <watch expression="pmsqe_frame.shape" language="Python" />
+        <watch expression="wd_frame.shape" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

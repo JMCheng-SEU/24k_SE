@@ -1,0 +1,58 @@
+{
+    "seed": 0,
+    "description": "",
+    "save_location": "/home/innotalk/JMCheng/real_time_exp/CRN_48K_DSDATASET_48kmicin",
+    "n_gpu": 1,
+    "use_cudnn": true,
+    "trainer": {
+        "epochs": 100,
+        "save_checkpoint_interval": 1,
+        "validation_interval": 1,
+        "find_max": true,
+        "z_score": false
+    },
+    "model": {
+        "module": "model.pha_cnn_1024w512",
+        "main": "FCNN_slim",
+        "args": {}
+    },
+    "loss_function": {
+        "module": "model.loss",
+        "main": "PMSQE_loss",
+        "args": {}
+    },
+    "optimizer": {
+        "lr": 0.0006,
+        "beta1": 0.9
+    },
+    "train_dataset": {
+        "module": "dataset.wav_dataset",
+        "main": "WavDataset",
+        "args": {
+            "mixture_dataset": "/home/innotalk/JMCheng/DSDATASET_41mic_in_noises/train_noisy",
+            "clean_dataset": "/home/innotalk/JMCheng/DSDATASET_41mic_in_noises/train_clean",
+            "limit": null,
+            "offset": 0
+        }
+    },
+    "validation_dataset": {
+        "module": "dataset.wav_dataset",
+        "main": "WavDataset",
+        "args": {
+            "mixture_dataset": "/home/innotalk/JMCheng/DSDATASET_41mic_in_noises/new_testset/testset/test_noisy",
+            "clean_dataset": "/home/innotalk/JMCheng/DSDATASET_41mic_in_noises/new_testset/testset/test_clean",
+            "limit": 200,
+            "offset": 0
+        }
+    },
+    "train_dataloader": {
+        "shuffle": true,
+        "num_workers": 0,
+        "batch_size": 32
+    },
+    "validation_dataloader": {
+        "shuffle": true,
+        "num_workers": 0,
+        "batch_size": 32
+    }
+}
